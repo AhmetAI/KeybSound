@@ -1,4 +1,4 @@
-##Belirlediğiniz sesleri harflere bastığınızda çalan program.
+## Belirlediğiniz sesleri harflere bastığınızda çalan program.
 
 # **Gerekli Modüller:**
 - Pynput - pip install pynput
