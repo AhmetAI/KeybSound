@@ -1,17 +1,18 @@
 Belirlediğiniz sesleri harflere bastığınızda çalan program.
 
 # **Gerekli Modüller:**
-Pynput - > pip install pynput
-Pygame - > pip install pygame
-Thread - > pip install threaded
-Tkinter - > pip install tkintertable
-Shutil - > pip install pytest-shutil
+- Pynput - pip install pynput
+- Pygame - pip install pygame
+- Thread - pip install threaded
+- Tkinter - pip install tkintertable
+- Shutil - pip install pytest-shutil
 
 # **Kurulum Gerektirmeyen Modüller:**
-Random
-Signal
-Os
-Time
+- Random
+- Signal
+- Os
+- Time
 
 
+*Herhangi bir sorun veya sorular için:*
 Discord : troool_#1447
