@@ -15,4 +15,4 @@ Belirlediğiniz sesleri harflere bastığınızda çalan program.
 
 
 *Herhangi bir sorun veya sorular için:*
-Discord : troool_#1447
+- Discord : troool_#1447
