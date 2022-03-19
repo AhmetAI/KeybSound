@@ -14,7 +14,7 @@
 - Time
 
 
-Programı direkt indirmek için [Buraya tıklayın.](https://github.com/ahmetardaipek/KeybSound/raw/main/KeybSound.rar).
+Programı direkt indirmek için [Buraya tıklayın](https://github.com/ahmetardaipek/KeybSound/raw/main/KeybSound.rar).
 
 
 *Herhangi bir sorun veya sorular için:*
